@@ -1,0 +1,25 @@
+body{
+	background-color: tomato;
+	color:white;
+}
+h1{
+	text-align: center;
+}
+hr{
+	width: 535px;
+	margin-left: 400px;
+}
+div{
+	margin-left:400px;
+}
+.c1{
+	width: 500px;
+	padding: 10px;
+	margin: 10px;
+   
+}
+#d1{
+	width: 525px;
+	border: none;
+	background-color: rgb(60, 169, 206);
+}
